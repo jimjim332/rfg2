@@ -655,6 +655,14 @@
             }
         },
         {
+            "Key": "697d9957-e1c3-480d-84d8-f0990c63eae0",
+            "Value": {
+                "id": "d3e78463-2b10-4872-a233-602fc68d546e",
+                "resourcePath": "views\\697d9957-e1c3-480d-84d8-f0990c63eae0.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
             "Key": "6aff240a-ca95-4493-ac59-80cc6bc6be91",
             "Value": {
                 "id": "aa3126ab-8650-4c4f-8270-e5541ce24f9c",
@@ -1279,6 +1287,14 @@
             }
         },
         {
+            "Key": "db08fa86-2eba-49b7-9e2e-6231073565b0",
+            "Value": {
+                "id": "58dd87ff-027c-4187-8c11-17e74fca8cf6",
+                "resourcePath": "scripts\\scr_LevelPicker\\scr_LevelPicker.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
             "Key": "dea44d2f-04d6-4163-bb66-c28111ac1928",
             "Value": {
                 "id": "40ab3f45-0eed-4523-b7a2-51aa52ae68ce",
@@ -1324,6 +1340,14 @@
                 "id": "4e0e965e-d661-4565-8c5e-a51569119fa4",
                 "resourcePath": "sprites\\spr_SwEnemy2AttVer_D\\spr_SwEnemy2AttVer_D.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "ed9a2d12-2dd0-4b59-820d-9051bb6eeeaf",
+            "Value": {
+                "id": "c36c9c0e-1d48-4ef5-add8-ee31e6cb44c9",
+                "resourcePath": "fonts\\ft_Title\\ft_Title.yy",
+                "resourceType": "GMFont"
             }
         },
         {
@@ -1418,7 +1442,8 @@
         "f6ad8e51-befb-4f0f-9e35-63fe746325af",
         "51523ac4-a6cd-4369-9580-de7e56854812",
         "60804a7d-791a-4cd1-8814-8bad904a7496",
-        "372f22ad-e807-4bab-9b48-13418247ca54"
+        "372f22ad-e807-4bab-9b48-13418247ca54",
+        "db08fa86-2eba-49b7-9e2e-6231073565b0"
     ],
     "tutorial": ""
 }
