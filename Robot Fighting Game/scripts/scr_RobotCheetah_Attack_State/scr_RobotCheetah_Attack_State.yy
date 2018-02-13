@@ -1,8 +1,8 @@
 {
-    "id": "317cac29-cf29-4788-91d3-dee3d375593b",
+    "id": "372f22ad-e807-4bab-9b48-13418247ca54",
     "modelName": "GMScript",
     "mvc": "1.0",
-    "name": "scr_Move_State",
+    "name": "scr_RobotCheetah_Attack_State",
     "IsCompatibility": false,
     "IsDnD": true
 }

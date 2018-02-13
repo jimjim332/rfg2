@@ -1,5 +1,5 @@
 {
-    "id": "b004100e-790a-4159-b138-ace560d6be3e",
+    "id": "9272f527-87d5-45ef-a1cc-6ba2a7644736",
     "modelName": "GMScript",
     "mvc": "1.0",
     "name": "scr_Attack_State",

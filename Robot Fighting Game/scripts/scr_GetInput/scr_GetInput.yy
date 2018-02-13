@@ -1,5 +1,5 @@
 {
-    "id": "335327dd-ed8e-4b1e-85b0-05ac91674c7a",
+    "id": "bcc9198f-a7cf-4860-889a-31ec39de107d",
     "modelName": "GMScript",
     "mvc": "1.0",
     "name": "scr_GetInput",
