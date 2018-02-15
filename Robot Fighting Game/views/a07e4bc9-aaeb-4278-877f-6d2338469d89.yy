@@ -1,13 +1,13 @@
 {
-    "id": "9cdcebda-b71a-4805-a5fb-08adeb923da2",
+    "id": "a07e4bc9-aaeb-4278-877f-6d2338469d89",
     "modelName": "GMFolder",
     "mvc": "1.1",
-    "name": "9cdcebda-b71a-4805-a5fb-08adeb923da2",
+    "name": "a07e4bc9-aaeb-4278-877f-6d2338469d89",
     "children": [
         
     ],
     "filterType": "GMObject",
-    "folderName": "Player Things",
+    "folderName": "LaserGun",
     "isDefaultView": false,
     "localisedFolderName": ""
 }

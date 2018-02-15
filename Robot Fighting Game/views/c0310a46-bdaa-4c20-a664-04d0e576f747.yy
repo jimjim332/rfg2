@@ -1,13 +1,13 @@
 {
-    "id": "9cdcebda-b71a-4805-a5fb-08adeb923da2",
+    "id": "c0310a46-bdaa-4c20-a664-04d0e576f747",
     "modelName": "GMFolder",
     "mvc": "1.1",
-    "name": "9cdcebda-b71a-4805-a5fb-08adeb923da2",
+    "name": "c0310a46-bdaa-4c20-a664-04d0e576f747",
     "children": [
         
     ],
     "filterType": "GMObject",
-    "folderName": "Player Things",
+    "folderName": "Enemies without HP",
     "isDefaultView": false,
     "localisedFolderName": ""
 }

@@ -1,13 +1,13 @@
 {
-    "id": "9cdcebda-b71a-4805-a5fb-08adeb923da2",
+    "id": "89ce4b6a-0a1b-4b62-ac17-31f370ce8034",
     "modelName": "GMFolder",
     "mvc": "1.1",
-    "name": "9cdcebda-b71a-4805-a5fb-08adeb923da2",
+    "name": "89ce4b6a-0a1b-4b62-ac17-31f370ce8034",
     "children": [
         
     ],
     "filterType": "GMObject",
-    "folderName": "Player Things",
+    "folderName": "Shotgun",
     "isDefaultView": false,
     "localisedFolderName": ""
 }

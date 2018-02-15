@@ -1,13 +1,13 @@
 {
-    "id": "9cdcebda-b71a-4805-a5fb-08adeb923da2",
+    "id": "a9ccc0a9-3c15-4c38-87ba-4a41cea0fdf1",
     "modelName": "GMFolder",
     "mvc": "1.1",
-    "name": "9cdcebda-b71a-4805-a5fb-08adeb923da2",
+    "name": "a9ccc0a9-3c15-4c38-87ba-4a41cea0fdf1",
     "children": [
         
     ],
     "filterType": "GMObject",
-    "folderName": "Player Things",
+    "folderName": "Mace",
     "isDefaultView": false,
     "localisedFolderName": ""
 }

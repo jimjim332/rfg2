@@ -1,13 +1,13 @@
 {
-    "id": "9cdcebda-b71a-4805-a5fb-08adeb923da2",
+    "id": "2dabe504-bc8d-466c-863e-54cfc369b5b5",
     "modelName": "GMFolder",
     "mvc": "1.1",
-    "name": "9cdcebda-b71a-4805-a5fb-08adeb923da2",
+    "name": "2dabe504-bc8d-466c-863e-54cfc369b5b5",
     "children": [
         
     ],
     "filterType": "GMObject",
-    "folderName": "Player Things",
+    "folderName": "Sniper",
     "isDefaultView": false,
     "localisedFolderName": ""
 }

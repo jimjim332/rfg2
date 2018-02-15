@@ -1,13 +1,13 @@
 {
-    "id": "9cdcebda-b71a-4805-a5fb-08adeb923da2",
+    "id": "bd2c5ad9-e48c-4db5-8a61-912d32861a02",
     "modelName": "GMFolder",
     "mvc": "1.1",
-    "name": "9cdcebda-b71a-4805-a5fb-08adeb923da2",
+    "name": "bd2c5ad9-e48c-4db5-8a61-912d32861a02",
     "children": [
         
     ],
     "filterType": "GMObject",
-    "folderName": "Player Things",
+    "folderName": "Powerups",
     "isDefaultView": false,
     "localisedFolderName": ""
 }

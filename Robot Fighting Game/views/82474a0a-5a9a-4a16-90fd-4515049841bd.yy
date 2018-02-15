@@ -1,13 +1,13 @@
 {
-    "id": "9cdcebda-b71a-4805-a5fb-08adeb923da2",
+    "id": "82474a0a-5a9a-4a16-90fd-4515049841bd",
     "modelName": "GMFolder",
     "mvc": "1.1",
-    "name": "9cdcebda-b71a-4805-a5fb-08adeb923da2",
+    "name": "82474a0a-5a9a-4a16-90fd-4515049841bd",
     "children": [
         
     ],
     "filterType": "GMObject",
-    "folderName": "Player Things",
+    "folderName": "Machine Gun",
     "isDefaultView": false,
     "localisedFolderName": ""
 }
