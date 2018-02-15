@@ -4,7 +4,16 @@
     "mvc": "1.0",
     "name": "obj_HealthPack",
     "eventList": [
-        
+        {
+            "id": "ccdb0d36-1f91-4357-a5be-c86dc86b0d45",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "bf3c9d6e-3eee-4b3d-b676-e38885185653",
+            "enumb": 0,
+            "eventtype": 4,
+            "m_owner": "0122253d-d199-4359-897d-fd57673b7f61"
+        }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
     "overriddenProperties": null,

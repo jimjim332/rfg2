@@ -367,6 +367,14 @@
             }
         },
         {
+            "Key": "2b900204-7564-4695-851b-8ce599835d08",
+            "Value": {
+                "id": "3e77f200-b785-4be4-bcc8-0bd14f0a9f8d",
+                "resourcePath": "objects\\obj_BossProjectileParent\\obj_BossProjectileParent.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "2bcaf873-8c18-418f-96dd-152a1debff4f",
             "Value": {
                 "id": "f4e86f77-b177-464b-a4ad-d06ca7915dcb",
@@ -1124,6 +1132,14 @@
                 "id": "0bfdf3ed-e3c2-4752-ac06-c83bf902cf86",
                 "resourcePath": "rooms\\rm_Lv26\\rm_Lv26.yy",
                 "resourceType": "GMRoom"
+            }
+        },
+        {
+            "Key": "811f5b2b-736f-4be3-a17f-253cdf58f4ba",
+            "Value": {
+                "id": "9d6918c1-7c7b-432b-95b4-bb483e115436",
+                "resourcePath": "fonts\\ft_PlayerStats\\ft_PlayerStats.yy",
+                "resourceType": "GMFont"
             }
         },
         {

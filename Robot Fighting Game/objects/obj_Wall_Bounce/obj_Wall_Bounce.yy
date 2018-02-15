@@ -4,7 +4,16 @@
     "mvc": "1.0",
     "name": "obj_Wall_Bounce",
     "eventList": [
-        
+        {
+            "id": "9451931e-cf6b-42c1-abce-fa6160aa640a",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": true,
+            "collisionObjectId": "568bae7f-4d40-4d1f-8c45-ca8aed57ec45",
+            "enumb": 0,
+            "eventtype": 4,
+            "m_owner": "19da384f-511c-4840-9462-6983ca10090f"
+        }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
     "overriddenProperties": null,
