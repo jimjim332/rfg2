@@ -8,7 +8,8 @@
         "c0310a46-bdaa-4c20-a664-04d0e576f747",
         "394543b5-b969-4278-a3ca-3dfe8de41e8d",
         "0080bb58-85f8-4fb0-b1a8-cf13b399caae",
-        "2b900204-7564-4695-851b-8ce599835d08"
+        "2b900204-7564-4695-851b-8ce599835d08",
+        "2a77892a-090b-4794-92ac-c8dd3bf52410"
     ],
     "filterType": "GMObject",
     "folderName": "Enemies and Enemy Things",
