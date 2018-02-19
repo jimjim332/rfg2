@@ -7,7 +7,9 @@
         "cbdda7c7-04db-43eb-b42c-34d19b445305",
         "19da384f-511c-4840-9462-6983ca10090f",
         "568bae7f-4d40-4d1f-8c45-ca8aed57ec45",
-        "ee52bbd4-50e9-46ae-bb73-2b0c115df7f7"
+        "ee52bbd4-50e9-46ae-bb73-2b0c115df7f7",
+        "ef46a238-8b85-4fb4-82c1-1e87524a23ad",
+        "dff69d2e-85b7-4f61-9dff-d564be79ae1a"
     ],
     "filterType": "GMObject",
     "folderName": "Rooms and Room Objects",
