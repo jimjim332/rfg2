@@ -1495,6 +1495,14 @@
             }
         },
         {
+            "Key": "aa1f379b-3d71-46c0-950a-9fcab05c208c",
+            "Value": {
+                "id": "749ca39d-e949-44e3-997f-daa5d69ebc93",
+                "resourcePath": "fonts\\ft_Title1\\ft_Title1.yy",
+                "resourceType": "GMFont"
+            }
+        },
+        {
             "Key": "aced514e-99f8-4fe3-8db3-01e00b6ec1e6",
             "Value": {
                 "id": "e666e25e-2ea3-4abb-b868-eeca42a1ac4c",
