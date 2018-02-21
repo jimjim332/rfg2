@@ -295,6 +295,14 @@
             }
         },
         {
+            "Key": "1ff99cb6-8a08-4ce8-8d4a-c96bb8a56f0e",
+            "Value": {
+                "id": "07a9edd0-ca5f-4dc0-b998-a28582eaa3fb",
+                "resourcePath": "sprites\\spr_Player_Base_D1\\spr_Player_Base_D1.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "20bfb5a7-9837-4201-9ac9-bcc1db1e3167",
             "Value": {
                 "id": "fc686a6b-5016-4ad8-b612-f8728e4cabc1",
@@ -500,14 +508,6 @@
                 "id": "c87965db-33cd-4f89-bdbe-4eb9efc9e9fe",
                 "resourcePath": "rooms\\rm_Lv22\\rm_Lv22.yy",
                 "resourceType": "GMRoom"
-            }
-        },
-        {
-            "Key": "38bd9120-e5af-4cf5-92e1-870e97e06bf7",
-            "Value": {
-                "id": "76b5916d-dd63-40fe-9544-7dcbf521a577",
-                "resourcePath": "sprites\\sprite26\\sprite26.yy",
-                "resourceType": "GMSprite"
             }
         },
         {
@@ -1183,9 +1183,17 @@
             }
         },
         {
+            "Key": "833883b3-5f66-46e7-9b26-6bb3ae37bc47",
+            "Value": {
+                "id": "824ccdc9-6221-4fb4-ab34-fb356a9b4ebd",
+                "resourcePath": "views\\833883b3-5f66-46e7-9b26-6bb3ae37bc47.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
             "Key": "8427047f-9ef8-4c77-89f3-9c20623d07b6",
             "Value": {
-                "id": "7b04600b-bcc4-4015-8241-0834902a02d1",
+                "id": "26ebab11-3020-4c33-aa8a-15407afec537",
                 "resourcePath": "options\\ios\\options_ios.yy",
                 "resourceType": "GMiOSOptions"
             }
@@ -1449,7 +1457,7 @@
         {
             "Key": "a128950b-5063-4876-b4a6-b99dbd2ea6d1",
             "Value": {
-                "id": "84cf2d3a-0231-44be-acc0-3c49c6083ae4",
+                "id": "a0f46d49-424d-4147-b700-f2dca2eba8ed",
                 "resourcePath": "options\\amazonfire\\options_amazonfire.yy",
                 "resourceType": "GMAmazonFireOptions"
             }
@@ -1913,7 +1921,7 @@
         {
             "Key": "e42bf5cc-3f46-4d67-a6d0-a4885a11ac3f",
             "Value": {
-                "id": "b7c7c26b-6cfc-47e9-916d-cd857f3bf8ff",
+                "id": "832b05ea-4a67-477b-9964-621832a2dbd0",
                 "resourcePath": "options\\android\\options_android.yy",
                 "resourceType": "GMAndroidOptions"
             }
