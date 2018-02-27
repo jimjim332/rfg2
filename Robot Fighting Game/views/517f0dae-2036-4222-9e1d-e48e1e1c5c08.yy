@@ -5,8 +5,7 @@
     "name": "517f0dae-2036-4222-9e1d-e48e1e1c5c08",
     "children": [
         "4d770e3d-bea3-4320-94f9-32e7bc676174",
-        "633b42a0-92cc-44b1-8ad2-6cfeb85cd900",
-        "833883b3-5f66-46e7-9b26-6bb3ae37bc47"
+        "633b42a0-92cc-44b1-8ad2-6cfeb85cd900"
     ],
     "filterType": "GMSprite",
     "folderName": "Attack Group",
