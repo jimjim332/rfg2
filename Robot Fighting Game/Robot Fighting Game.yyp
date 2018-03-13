@@ -359,6 +359,14 @@
             }
         },
         {
+            "Key": "27630aab-1c6a-4943-a081-7db2f579206e",
+            "Value": {
+                "id": "d8339753-e19a-4296-a31f-faffd2946bac",
+                "resourcePath": "sounds\\snd_Buck_Bomber_Explosion\\snd_Buck_Bomber_Explosion.yy",
+                "resourceType": "GMSound"
+            }
+        },
+        {
             "Key": "296bb655-a1a6-4478-bcb6-c76259772992",
             "Value": {
                 "id": "d39217be-fd70-4b6c-bb55-3c1b7a9db3e7",
@@ -1564,6 +1572,14 @@
                 "id": "a3a7d9a8-ffdb-494a-8a03-b7f1f64923f9",
                 "resourcePath": "views\\9ee06bbd-c5ce-47a7-87f2-40efb3a3c3eb.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "9f664045-bf7d-4399-8e60-524cf60d3523",
+            "Value": {
+                "id": "59b38320-94b4-44cb-ad67-8b65ba0da207",
+                "resourcePath": "sounds\\snd_Boss1_Rocket_Explosion\\snd_Boss1_Rocket_Explosion.yy",
+                "resourceType": "GMSound"
             }
         },
         {
