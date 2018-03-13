@@ -31,6 +31,14 @@
     },
     "resources": [
         {
+            "Key": "00156b8e-1d3a-4c7a-a195-2ae0a9a38a06",
+            "Value": {
+                "id": "c449c31c-f46c-4ac1-92bc-611e9b84a535",
+                "resourcePath": "sounds\\snd_LaserGun\\snd_LaserGun.yy",
+                "resourceType": "GMSound"
+            }
+        },
+        {
             "Key": "00420d8c-24a3-4ece-bb85-d4b8b1ac32ac",
             "Value": {
                 "id": "dd5385c6-6ba9-4473-8304-bc7629baf87f",
@@ -863,6 +871,14 @@
             }
         },
         {
+            "Key": "56e4f069-a944-454c-95ed-f8e828673432",
+            "Value": {
+                "id": "5e89d64e-af18-4edc-b527-cdad7835445d",
+                "resourcePath": "sounds\\snd_Pistol\\snd_Pistol.yy",
+                "resourceType": "GMSound"
+            }
+        },
+        {
             "Key": "57a7fa14-1c6d-4669-b7ad-0d67a152e1dc",
             "Value": {
                 "id": "66d44c67-37bd-4f45-980c-e9f83589fac4",
@@ -1220,6 +1236,14 @@
                 "id": "e10b6e93-a908-4650-8eda-3b78cbd70652",
                 "resourcePath": "sprites\\spr_Buck_Bomber\\spr_Buck_Bomber.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "80d25af4-99fd-44cb-8606-ebe32645208e",
+            "Value": {
+                "id": "049d6ec5-7aba-42f5-9ad9-98ad672eccda",
+                "resourcePath": "sounds\\snd_MachineGun_Shoot\\snd_MachineGun_Shoot.yy",
+                "resourceType": "GMSound"
             }
         },
         {
@@ -1655,6 +1679,14 @@
             }
         },
         {
+            "Key": "af0275ad-4618-45c5-929f-8e36230687d0",
+            "Value": {
+                "id": "2b0872fb-ab0e-43d9-a578-73ce78d7fe86",
+                "resourcePath": "sounds\\snd_Sword_Slash\\snd_Sword_Slash.yy",
+                "resourceType": "GMSound"
+            }
+        },
+        {
             "Key": "af967ed2-6239-44a0-a694-0e9ee6f14767",
             "Value": {
                 "id": "9f4b9989-51b7-4fd9-9b9e-36a1f3288b49",
@@ -1748,6 +1780,14 @@
                 "id": "113e4948-0919-4efd-a5f8-34e6ee96521f",
                 "resourcePath": "sprites\\spr_ShotGunShell\\spr_ShotGunShell.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "be4860e6-cf41-43be-a40d-e1fc581a12af",
+            "Value": {
+                "id": "d040646a-6a17-4fd7-b410-b52002a14404",
+                "resourcePath": "sounds\\snd_Shotgun\\snd_Shotgun.yy",
+                "resourceType": "GMSound"
             }
         },
         {
@@ -2308,6 +2348,14 @@
                 "id": "d706f30e-a27d-4bad-a849-3e6d24cb0fd7",
                 "resourcePath": "objects\\obj_AmmoPack\\obj_AmmoPack.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "fffd49a9-7848-47b5-aaa6-1e2aa309cd2e",
+            "Value": {
+                "id": "3e34c94b-5f06-4c2b-b481-8ad779924a03",
+                "resourcePath": "sounds\\snd_Sniper\\snd_Sniper.yy",
+                "resourceType": "GMSound"
             }
         }
     ],
