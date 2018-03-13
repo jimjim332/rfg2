@@ -6,8 +6,7 @@
     "children": [
         "bcc9198f-a7cf-4860-889a-31ec39de107d",
         "317cac29-cf29-4788-91d3-dee3d375593b",
-        "9272f527-87d5-45ef-a1cc-6ba2a7644736",
-        "4ed3c673-9b58-43cf-82c7-e3fa6ae5d33c"
+        "9272f527-87d5-45ef-a1cc-6ba2a7644736"
     ],
     "filterType": "GMScript",
     "folderName": "Player",

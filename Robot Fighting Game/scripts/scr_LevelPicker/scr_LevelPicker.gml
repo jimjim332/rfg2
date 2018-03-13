@@ -1,5 +1,6 @@
 /// @description scr_Card_Menua1
 //Keyboard
+global.from = 1; 
 scr_GetInput();
 
 if(dwm_key)
@@ -292,6 +293,32 @@ if(room = rm_Lvl_Search_More_2)
 	    if(obj_LevelPicker.y = 576)//Back
 	    {
 	        room_goto(rm_Lv30);
+	    }    
+	}
+}
+//Random Enemy Level Picker
+if(room = rm_RandomEnemyLevelPicker)
+{
+	global.from = 0; 
+	if (st_key)
+	{
+	    if(obj_LevelPicker.y = 0)//Back
+	    {
+	        room_goto(rm_LvRandom3);
+	    }    
+	}
+	if (st_key)
+	{
+	    if(obj_LevelPicker.y = 64)//Back
+	    {
+	        room_goto(rm_LvRandom5);
+	    }    
+	}
+	if (st_key)
+	{
+	    if(obj_LevelPicker.y = 128)//Back
+	    {
+	        room_goto(rm_LvRandom10);
 	    }    
 	}
 }
