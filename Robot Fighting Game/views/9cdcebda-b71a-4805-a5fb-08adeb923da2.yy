@@ -8,8 +8,7 @@
         "431fb8d9-79af-48d1-92a4-8f17d70ad6e2",
         "42f09e87-5e9e-4610-90d7-180006dbb4a5",
         "2e916aee-e52e-4335-a3b5-78683c655abd",
-        "66a80239-0b17-4d9c-a167-1c960f412afb",
-        "a60b6cb8-2f00-4f36-8962-643740609358"
+        "66a80239-0b17-4d9c-a167-1c960f412afb"
     ],
     "filterType": "GMObject",
     "folderName": "Player Things",
