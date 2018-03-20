@@ -2239,6 +2239,14 @@
             }
         },
         {
+            "Key": "f2eba3f6-a956-4ae5-93a1-c6cd1265cc62",
+            "Value": {
+                "id": "d372da09-39db-46fa-b39d-fd167dfcfbd6",
+                "resourcePath": "fonts\\ft_HealthMarker\\ft_HealthMarker.yy",
+                "resourceType": "GMFont"
+            }
+        },
+        {
             "Key": "f3c0462c-0e82-42ac-ac67-016c93217735",
             "Value": {
                 "id": "d914adcc-e716-4406-861c-21507bfbad15",
