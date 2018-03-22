@@ -919,6 +919,14 @@
             }
         },
         {
+            "Key": "5be852d7-f6ff-48a2-93eb-bc58eaecd8a1",
+            "Value": {
+                "id": "de642144-59e4-498a-9988-317528129ec9",
+                "resourcePath": "sprites\\spr_AchievementsTrophy\\spr_AchievementsTrophy.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "5d9dd82c-4c39-4d0c-8cb7-391489447c78",
             "Value": {
                 "id": "7a9922f4-6e40-4cac-ac92-1f8921d2bbc1",
@@ -948,6 +956,14 @@
                 "id": "6a21697c-9c13-4bef-8d33-0e175d43568f",
                 "resourcePath": "views\\633b42a0-92cc-44b1-8ad2-6cfeb85cd900.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "6456d8e7-d531-4f01-8743-0bd13e27ad75",
+            "Value": {
+                "id": "f7fbd746-a88d-4d1e-a6e0-baef3ff2ace9",
+                "resourcePath": "objects\\obj_Reward\\obj_Reward.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -1028,6 +1044,14 @@
                 "id": "aa3126ab-8650-4c4f-8270-e5541ce24f9c",
                 "resourcePath": "views\\6aff240a-ca95-4493-ac59-80cc6bc6be91.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "6e08c296-1b4c-445e-ab68-d8b93dabe990",
+            "Value": {
+                "id": "e208f1e8-9cb9-4f86-be56-bb518a0b9289",
+                "resourcePath": "objects\\obj_RewardParent\\obj_RewardParent.yy",
+                "resourceType": "GMObject"
             }
         },
         {
