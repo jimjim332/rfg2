@@ -1735,6 +1735,14 @@
             }
         },
         {
+            "Key": "b51ec82d-f55b-46b4-ac41-c0967f104caf",
+            "Value": {
+                "id": "026e65b2-ed5b-4328-8e85-59b35c7c6c37",
+                "resourcePath": "objects\\obj_Achievement\\obj_Achievement.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "b5322d9c-e9a8-4e2f-b28c-bfc9e790299e",
             "Value": {
                 "id": "e4859be8-a2d1-4406-a75e-b0e1b9bd9657",
@@ -1756,6 +1764,14 @@
                 "id": "4c4117dc-cfab-4baf-81da-aadfb573a0b1",
                 "resourcePath": "views\\b7dc1b3c-1d56-47ac-8f18-d0f59efd9711.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "b8de0ebb-3e65-4c57-9815-44d8902fe003",
+            "Value": {
+                "id": "137e0312-1e90-4ecc-b2d3-8564122de354",
+                "resourcePath": "sprites\\spr_AchievementBase\\spr_AchievementBase.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -2052,6 +2068,14 @@
                 "id": "4f60c754-f244-4308-af61-593b26312c68",
                 "resourcePath": "rooms\\rm_Lv1\\rm_Lv1.yy",
                 "resourceType": "GMRoom"
+            }
+        },
+        {
+            "Key": "d99b8c6f-511f-47ca-95b8-83383507dc3c",
+            "Value": {
+                "id": "aea6f262-e3e5-40c1-bb86-4e68e37b9147",
+                "resourcePath": "sprites\\spr_Trophy\\spr_Trophy.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
