@@ -2071,14 +2071,6 @@
             }
         },
         {
-            "Key": "d99b8c6f-511f-47ca-95b8-83383507dc3c",
-            "Value": {
-                "id": "aea6f262-e3e5-40c1-bb86-4e68e37b9147",
-                "resourcePath": "sprites\\spr_Trophy\\spr_Trophy.yy",
-                "resourceType": "GMSprite"
-            }
-        },
-        {
             "Key": "db08fa86-2eba-49b7-9e2e-6231073565b0",
             "Value": {
                 "id": "58dd87ff-027c-4187-8c11-17e74fca8cf6",
