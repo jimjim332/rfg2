@@ -4,7 +4,16 @@
     "mvc": "1.0",
     "name": "obj_Maze",
     "eventList": [
-        
+        {
+            "id": "854285b5-3d3d-4a01-a803-d857a6605964",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": true,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 0,
+            "eventtype": 0,
+            "m_owner": "abd0e29b-b30a-460c-badf-bf86b6fedf11"
+        }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
     "overriddenProperties": null,
