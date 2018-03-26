@@ -2,39 +2,72 @@
 //Keyboard
 global.from = 1; 
 scr_GetInput();
-
-if(dwm_key)
+if(room!= rm_RandomEnemyLevelPicker)
 {
-    with (obj_LevelPicker)
-    {
-    /*
-        instance_destroy()
-        instance_create(x,y+64,obj_Menua1)
-        */
-        obj_LevelPicker.y += 64;
-        if(obj_LevelPicker.y > 576)
-        {
-            obj_LevelPicker.y = 0;
-        }
-    }
-} 
+	if(dwm_key)
+	{
+	    with (obj_LevelPicker)
+	    {
+	    /*
+	        instance_destroy()
+	        instance_create(x,y+64,obj_Menua1)
+	        */
+	        obj_LevelPicker.y += 64;
+	        if(obj_LevelPicker.y > 576)
+	        {
+	            obj_LevelPicker.y = 0;
+	        }
+	    }
+	} 
 
-if(upm_key)
-{
-    with (obj_LevelPicker)
-    {
-    /*
-        instance_destroy()
-        instance_create(x,y-64,obj_Menua1)
-        */
-        obj_LevelPicker.y -= 64;
-        if(obj_LevelPicker.y < 0)
-        {
-            obj_LevelPicker.y = 576;
-        }
-    }
+	if(upm_key)
+	{
+	    with (obj_LevelPicker)
+	    {
+	    /*
+	        instance_destroy()
+	        instance_create(x,y-64,obj_Menua1)
+	        */
+	        obj_LevelPicker.y -= 64;
+	        if(obj_LevelPicker.y < 0)
+	        {
+	            obj_LevelPicker.y = 576;
+	        }
+	    }
+	}
+} else {
+	if(dwm_key)
+	{
+	    with (obj_LevelPicker)
+	    {
+	    /*
+	        instance_destroy()
+	        instance_create(x,y+64,obj_Menua1)
+	        */
+	        obj_LevelPicker.y += 64;
+	        if(obj_LevelPicker.y > 128)
+	        {
+	            obj_LevelPicker.y = 0;
+	        }
+	    }
+	} 
+
+	if(upm_key)
+	{
+	    with (obj_LevelPicker)
+	    {
+	    /*
+	        instance_destroy()
+	        instance_create(x,y-64,obj_Menua1)
+	        */
+	        obj_LevelPicker.y -= 64;
+	        if(obj_LevelPicker.y < 0)
+	        {
+	            obj_LevelPicker.y = 128;
+	        }
+	    }
+	}
 }
-
 //Inputs
 //Level Switchs
 //Level Picker 1
