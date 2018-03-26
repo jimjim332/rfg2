@@ -55,6 +55,14 @@
             }
         },
         {
+            "Key": "00f0eeb6-5f2e-4ea5-9446-e7ea6ce98979",
+            "Value": {
+                "id": "ca1b84d6-1572-4e5b-8289-3c5ea4df7ee2",
+                "resourcePath": "views\\00f0eeb6-5f2e-4ea5-9446-e7ea6ce98979.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
             "Key": "0122253d-d199-4359-897d-fd57673b7f61",
             "Value": {
                 "id": "a49cfe02-9a20-4783-95df-687a671c732c",
@@ -68,6 +76,14 @@
                 "id": "802fb7f8-8360-43a6-a1d5-a42e80af16c6",
                 "resourcePath": "sprites\\spr_Mace1_R\\spr_Mace1_R.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "017f744b-545f-420c-9d15-81fc33b7ec28",
+            "Value": {
+                "id": "cd72bfb5-8ae6-49ee-baf2-e0f8e565647f",
+                "resourcePath": "objects\\obj_GrassWall\\obj_GrassWall.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -316,6 +332,14 @@
                 "id": "e326aa63-5b85-45af-8756-925c7dd0d348",
                 "resourcePath": "objects\\obj_Wall_Bounce\\obj_Wall_Bounce.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "1ac5d55a-30cf-4c8f-bf00-f036cf5b8db4",
+            "Value": {
+                "id": "1713c592-cd1f-407e-bf46-f20f2683cf53",
+                "resourcePath": "sprites\\spr_SandTile\\spr_SandTile.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -895,6 +919,14 @@
             }
         },
         {
+            "Key": "5721ebdc-8cc7-45f8-9fa1-cc0c0c7e76ad",
+            "Value": {
+                "id": "84fa0364-e30a-48c5-a49a-adf2c084f279",
+                "resourcePath": "sprites\\spr_GrassWall\\spr_GrassWall.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "57a7fa14-1c6d-4669-b7ad-0d67a152e1dc",
             "Value": {
                 "id": "66d44c67-37bd-4f45-980c-e9f83589fac4",
@@ -932,6 +964,14 @@
                 "id": "350de2ba-c8cd-49bd-acbf-bd1a772c859e",
                 "resourcePath": "objects\\obj_LaserBullet\\obj_LaserBullet.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "5d9444fa-6d6e-45cd-b616-1a5934e88f1d",
+            "Value": {
+                "id": "39bb5a50-5091-4f93-84a9-609fbc569300",
+                "resourcePath": "views\\5d9444fa-6d6e-45cd-b616-1a5934e88f1d.yy",
+                "resourceType": "GMFolder"
             }
         },
         {
@@ -1519,6 +1559,14 @@
             }
         },
         {
+            "Key": "97043a5f-6ab4-4a78-bb66-2ef855de52ac",
+            "Value": {
+                "id": "2ea38df3-ba25-4b61-a0ed-d3eb43b06bef",
+                "resourcePath": "rooms\\rm_Maze\\rm_Maze.yy",
+                "resourceType": "GMRoom"
+            }
+        },
+        {
             "Key": "976d532d-6d33-4365-b659-cbf3d4e4ea61",
             "Value": {
                 "id": "e46ae975-f702-4ac1-ad20-920745d95469",
@@ -1663,6 +1711,14 @@
             }
         },
         {
+            "Key": "a3213a20-ac47-4646-b6a9-e12f0eb92765",
+            "Value": {
+                "id": "ad2ea381-636a-4f6c-8934-0ac74f105ca5",
+                "resourcePath": "tilesets\\tl_Sand\\tl_Sand.yy",
+                "resourceType": "GMTileSet"
+            }
+        },
+        {
             "Key": "a4d56486-12ac-4103-80cc-25bc7e82030b",
             "Value": {
                 "id": "75ecc2d3-5c47-4203-962c-e15e712411ad",
@@ -1708,6 +1764,14 @@
                 "id": "c6506818-b921-4a3f-8238-83f5ff7937c0",
                 "resourcePath": "sprites\\spr_Sw_Sh_Enemy1L\\spr_Sw_Sh_Enemy1L.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "abd0e29b-b30a-460c-badf-bf86b6fedf11",
+            "Value": {
+                "id": "bda69010-fea0-4ace-8bbb-ce372659473e",
+                "resourcePath": "objects\\obj_Maze\\obj_Maze.yy",
+                "resourceType": "GMObject"
             }
         },
         {
