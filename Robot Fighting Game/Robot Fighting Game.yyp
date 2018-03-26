@@ -919,14 +919,6 @@
             }
         },
         {
-            "Key": "5be852d7-f6ff-48a2-93eb-bc58eaecd8a1",
-            "Value": {
-                "id": "de642144-59e4-498a-9988-317528129ec9",
-                "resourcePath": "sprites\\spr_AchievementsTrophy\\spr_AchievementsTrophy.yy",
-                "resourceType": "GMSprite"
-            }
-        },
-        {
             "Key": "5d9dd82c-4c39-4d0c-8cb7-391489447c78",
             "Value": {
                 "id": "7a9922f4-6e40-4cac-ac92-1f8921d2bbc1",
