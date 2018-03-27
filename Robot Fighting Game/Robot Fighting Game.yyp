@@ -1639,14 +1639,6 @@
             }
         },
         {
-            "Key": "a3213a20-ac47-4646-b6a9-e12f0eb92765",
-            "Value": {
-                "id": "ad2ea381-636a-4f6c-8934-0ac74f105ca5",
-                "resourcePath": "tilesets\\tl_Sand\\tl_Sand.yy",
-                "resourceType": "GMTileSet"
-            }
-        },
-        {
             "Key": "a4d56486-12ac-4103-80cc-25bc7e82030b",
             "Value": {
                 "id": "75ecc2d3-5c47-4203-962c-e15e712411ad",
