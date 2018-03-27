@@ -8,65 +8,52 @@ if(room!= rm_RandomEnemyLevelPicker)
 	{
 	    with (obj_LevelPicker)
 	    {
-	    /*
-	        instance_destroy()
-	        instance_create(x,y+64,obj_Menua1)
-	        */
-	        obj_LevelPicker.y += 64;
-	        if(obj_LevelPicker.y > 576)
-	        {
-	            obj_LevelPicker.y = 0;
-	        }
-	    }
-	} 
-
-	if(upm_key)
-	{
-	    with (obj_LevelPicker)
+			obj_LevelPicker.Row += 1; 
+		}
+		if(obj_LevelPicker.Row > 9)
 	    {
-	    /*
-	        instance_destroy()
-	        instance_create(x,y-64,obj_Menua1)
-	        */
-	        obj_LevelPicker.y -= 64;
-	        if(obj_LevelPicker.y < 0)
-	        {
-	            obj_LevelPicker.y = 576;
-	        }
+			obj_LevelPicker.Row = 0;
 	    }
 	}
+	if(upm_key)
+	{
+		with (obj_LevelPicker)
+		{
+			obj_LevelPicker.Row -= 1; 
+	
+	}
+	 if(obj_LevelPicker.Row < 0)
+	        {
+	            obj_LevelPicker.Row = 9;
+	        }
+	}
+	        obj_LevelPicker.y = obj_LevelPicker.Row*obj_LevelPicker.yspace;
+	       
 } else {
 	if(dwm_key)
 	{
 	    with (obj_LevelPicker)
 	    {
-	    /*
-	        instance_destroy()
-	        instance_create(x,y+64,obj_Menua1)
-	        */
-	        obj_LevelPicker.y += 64;
-	        if(obj_LevelPicker.y > 128)
-	        {
-	            obj_LevelPicker.y = 0;
-	        }
+			obj_LevelPicker.Row += 1; 
+		}
+		if(obj_LevelPicker.Row > 2)
+	    {
+			obj_LevelPicker.Row = 0;
 	    }
-	} 
+	}
 
 	if(upm_key)
 	{
-	    with (obj_LevelPicker)
-	    {
-	    /*
-	        instance_destroy()
-	        instance_create(x,y-64,obj_Menua1)
-	        */
-	        obj_LevelPicker.y -= 64;
-	        if(obj_LevelPicker.y < 0)
-	        {
-	            obj_LevelPicker.y = 128;
-	        }
+		with (obj_LevelPicker)
+		{
+			obj_LevelPicker.Row -= 1; 
+		}
+	if(obj_LevelPicker.Row < 0)
+		{
+			obj_LevelPicker.Row = 2;
 	    }
 	}
+	        obj_LevelPicker.y = obj_LevelPicker.Row*obj_LevelPicker.yspace;
 }
 //Inputs
 //Level Switchs
@@ -355,3 +342,4 @@ if(room = rm_RandomEnemyLevelPicker)
 	    }    
 	}
 }
+
