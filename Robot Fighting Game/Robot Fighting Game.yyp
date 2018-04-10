@@ -682,7 +682,7 @@
             "Key": "44208bca-6464-4b29-82d7-505568ed08b6",
             "Value": {
                 "id": "0623f777-f4a5-41a5-80ad-ec65957b5b1e",
-                "resourcePath": "sprites\\spr_Bomber_L\\spr_Bomber_L.yy",
+                "resourcePath": "sprites\\spr_Bomber\\spr_Bomber.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -1687,6 +1687,14 @@
             }
         },
         {
+            "Key": "a9e20375-05fc-4587-a4c7-55f0888aef92",
+            "Value": {
+                "id": "03001c06-6f92-4ee2-8d7e-7bdb4ca61b4a",
+                "resourcePath": "sprites\\spr_Radius\\spr_Radius.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "aa1f379b-3d71-46c0-950a-9fcab05c208c",
             "Value": {
                 "id": "749ca39d-e949-44e3-997f-daa5d69ebc93",
@@ -2055,11 +2063,27 @@
             }
         },
         {
+            "Key": "d36600d0-6149-42d9-b2fc-8c47f08a77bc",
+            "Value": {
+                "id": "dc6594c5-aed1-4673-a5be-ea82bbac160e",
+                "resourcePath": "objects\\obj_Bomber\\obj_Bomber.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "d5dbf6a0-aa03-4e6f-a442-b48aeb3d4055",
             "Value": {
                 "id": "91e7a673-1f30-4aef-b4a8-9d4464035c99",
                 "resourcePath": "views\\d5dbf6a0-aa03-4e6f-a442-b48aeb3d4055.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "d658b36b-3d07-4a34-bcc5-5e5bd7fa920e",
+            "Value": {
+                "id": "7d0efba8-3c08-4631-aeee-aa93bcd3894e",
+                "resourcePath": "sprites\\spr_Bomb\\spr_Bomb.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -2127,6 +2151,14 @@
             }
         },
         {
+            "Key": "db292e99-c6b2-401f-84df-128a6fb40042",
+            "Value": {
+                "id": "9b73a55b-bafa-4daa-a83e-8b8d7a7d13c8",
+                "resourcePath": "views\\db292e99-c6b2-401f-84df-128a6fb40042.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
             "Key": "dcd01fd0-3d28-425b-8b17-f687297abf5b",
             "Value": {
                 "id": "bba017e4-deb9-4d52-8bb6-54579e55a94c",
@@ -2172,6 +2204,14 @@
                 "id": "832b05ea-4a67-477b-9964-621832a2dbd0",
                 "resourcePath": "options\\android\\options_android.yy",
                 "resourceType": "GMAndroidOptions"
+            }
+        },
+        {
+            "Key": "e5d1efc9-ac38-4392-8870-3b13bb9d9ed7",
+            "Value": {
+                "id": "b8819c00-344b-4627-bd36-4a36a8531792",
+                "resourcePath": "objects\\obj_Bomb\\obj_Bomb.yy",
+                "resourceType": "GMObject"
             }
         },
         {
