@@ -215,6 +215,14 @@
             }
         },
         {
+            "Key": "1199c7cf-2a3f-4480-8e95-fdcfd76dc69f",
+            "Value": {
+                "id": "98516052-a21c-4725-b018-436d75b2cf27",
+                "resourcePath": "views\\1199c7cf-2a3f-4480-8e95-fdcfd76dc69f.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
             "Key": "11ec66b9-d005-4066-b0ae-b4a760b735af",
             "Value": {
                 "id": "f913be1b-3746-4e5f-9602-a086089536c7",
@@ -668,6 +676,14 @@
                 "id": "3613e0de-0f71-4525-a961-b0fe2bf1033d",
                 "resourcePath": "objects\\obj_Boss1_Room_Timer1\\obj_Boss1_Room_Timer1.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "44208bca-6464-4b29-82d7-505568ed08b6",
+            "Value": {
+                "id": "0623f777-f4a5-41a5-80ad-ec65957b5b1e",
+                "resourcePath": "sprites\\spr_Bomber_L\\spr_Bomber_L.yy",
+                "resourceType": "GMSprite"
             }
         },
         {

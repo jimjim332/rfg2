@@ -9,7 +9,8 @@
         "597cdc4c-6dce-4472-981e-f61ab3179d64",
         "0307d10d-4c5e-406a-9a6d-327095de951f",
         "76bef887-a6ca-4132-ad80-47ab0ec577fa",
-        "57b8f0f6-57c9-48e2-b9e4-f29e4e62be3e"
+        "57b8f0f6-57c9-48e2-b9e4-f29e4e62be3e",
+        "1199c7cf-2a3f-4480-8e95-fdcfd76dc69f"
     ],
     "filterType": "GMSprite",
     "folderName": "Shooter",
