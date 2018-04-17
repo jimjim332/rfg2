@@ -527,6 +527,14 @@
             }
         },
         {
+            "Key": "33340b9b-5c7d-457c-8c92-15cbd24a8ac2",
+            "Value": {
+                "id": "cc14eef5-bd0c-4041-affe-766e803a213b",
+                "resourcePath": "sprites\\spr_Ninja_D_Attack\\spr_Ninja_D_Attack.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "34d2d4cc-7766-40b8-9b21-564882fca84b",
             "Value": {
                 "id": "ebf183d5-20ec-4c20-9e9b-aac1eaae632d",
@@ -619,6 +627,14 @@
             "Value": {
                 "id": "1c80f005-30a5-4f83-919c-81d410d9ba9b",
                 "resourcePath": "sprites\\spr_Wall\\spr_Wall.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "3fb4b626-45a3-413d-af91-9cc91e39ecc3",
+            "Value": {
+                "id": "fccb74be-b478-4093-889f-1320545957a8",
+                "resourcePath": "sprites\\spr_Ninja_U_Attack\\spr_Ninja_U_Attack.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -983,6 +999,14 @@
             }
         },
         {
+            "Key": "62a9fce5-5a77-498b-a056-10226b70b5a7",
+            "Value": {
+                "id": "268ee4d5-d13a-4192-8a5c-b587a3931abc",
+                "resourcePath": "sprites\\spr_Ninja_U\\spr_Ninja_U.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "633b42a0-92cc-44b1-8ad2-6cfeb85cd900",
             "Value": {
                 "id": "6a21697c-9c13-4bef-8d33-0e175d43568f",
@@ -1239,6 +1263,14 @@
             }
         },
         {
+            "Key": "7a2fb764-87c9-4358-8e74-3d14b2b8ac1c",
+            "Value": {
+                "id": "35565cf3-d4f6-4728-b962-3fb7e7a93c27",
+                "resourcePath": "views\\7a2fb764-87c9-4358-8e74-3d14b2b8ac1c.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
             "Key": "7b8a10e6-c0a4-4f0a-b7fb-044861bc962f",
             "Value": {
                 "id": "24d8ff6d-f290-4757-b376-14a0130194b8",
@@ -1251,6 +1283,14 @@
             "Value": {
                 "id": "a8cdf480-39be-4146-9d98-7528a70500de",
                 "resourcePath": "sprites\\spr_SwEnemy1_L\\spr_SwEnemy1_L.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "7e167db3-5782-46a9-8915-a092905c1970",
+            "Value": {
+                "id": "03a1cb98-cafe-439f-87cf-d786df1f4095",
+                "resourcePath": "sprites\\spr_Ninja_L_Attack\\spr_Ninja_L_Attack.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -1543,6 +1583,14 @@
             }
         },
         {
+            "Key": "9a7fa961-c77d-4e28-a935-9e8c70c2647d",
+            "Value": {
+                "id": "7b110755-57ef-41c3-8484-0210c4e5e3b0",
+                "resourcePath": "sprites\\spr_Ninja_R\\spr_Ninja_R.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "9af46188-bce5-44f1-8e02-df5e4b645412",
             "Value": {
                 "id": "e7cdafb1-0c67-4dcc-a3d9-6e98dd308eca",
@@ -1684,6 +1732,14 @@
                 "id": "2c22e886-b9c5-4bb8-baaa-d7c5d78a5cf8",
                 "resourcePath": "rooms\\rm_Lv20\\rm_Lv20.yy",
                 "resourceType": "GMRoom"
+            }
+        },
+        {
+            "Key": "a9188620-a624-4a5a-83ae-a1b53faf038b",
+            "Value": {
+                "id": "4b4f96eb-1d6b-4c29-8048-592fdc436bb3",
+                "resourcePath": "options\\linux\\options_linux.yy",
+                "resourceType": "GMLinuxOptions"
             }
         },
         {
@@ -1879,6 +1935,14 @@
             }
         },
         {
+            "Key": "bf977bb0-842d-4625-82d7-92f50e23b2b7",
+            "Value": {
+                "id": "d5dc477a-0ced-448e-bd20-417478a11056",
+                "resourcePath": "sprites\\spr_Ninja_R_Attack\\spr_Ninja_R_Attack.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "c004e82f-559c-4555-bc48-53cf6d0cfe81",
             "Value": {
                 "id": "240a569c-ad86-48b5-a26f-cea08c789afe",
@@ -1927,6 +1991,14 @@
             }
         },
         {
+            "Key": "c45aac59-5208-4df8-8c60-1cc8621b2cba",
+            "Value": {
+                "id": "43a5f382-19d2-40fb-bf74-40e9fa3b944e",
+                "resourcePath": "sprites\\spr_Ninja_D\\spr_Ninja_D.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "c54b2766-9f1f-4c40-841a-1f73aaa7dabe",
             "Value": {
                 "id": "90ffea00-31fa-4677-8610-86c8518d8c1d",
@@ -1955,6 +2027,14 @@
             "Value": {
                 "id": "7896bdcc-fbd7-498d-be42-a78eb4da3c54",
                 "resourcePath": "sprites\\spr_Ic_190_120\\spr_Ic_190_120.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "c74632e0-c7b8-4656-bd97-ba1b127a0089",
+            "Value": {
+                "id": "7e4b94e1-be66-4036-82b3-30761867aebe",
+                "resourcePath": "sprites\\spr_Ninja_L\\spr_Ninja_L.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -2191,6 +2271,14 @@
             }
         },
         {
+            "Key": "e31c2943-707d-456a-97c5-6f5fdf234d4b",
+            "Value": {
+                "id": "c4d49ad9-ad80-4e31-9a3d-9f3b430c7da5",
+                "resourcePath": "views\\e31c2943-707d-456a-97c5-6f5fdf234d4b.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
             "Key": "e398417c-06e5-4585-b6c1-f15511106b65",
             "Value": {
                 "id": "67d14834-e734-40dd-b44c-f75c54cbe11a",
@@ -2364,6 +2452,14 @@
                 "id": "49321c68-6543-478d-b6fa-0ce00d777d4b",
                 "resourcePath": "views\\f3dd0386-c884-48a2-8783-32676f11bb81.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "f418569b-3bdd-4706-a0e4-364317f54032",
+            "Value": {
+                "id": "380336d9-3ee2-4807-82d2-a9d378d57b43",
+                "resourcePath": "options\\mac\\options_mac.yy",
+                "resourceType": "GMMacOptions"
             }
         },
         {
