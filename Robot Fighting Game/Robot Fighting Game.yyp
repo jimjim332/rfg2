@@ -2255,6 +2255,14 @@
             }
         },
         {
+            "Key": "e76926bd-2c49-4e2e-950f-773e985bf7c4",
+            "Value": {
+                "id": "753c482b-069e-432e-a4e7-1328bd588585",
+                "resourcePath": "sprites\\spr_GrenadeLauncher\\spr_GrenadeLauncher.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "e7e741dd-51d3-4666-98de-320a4245dc44",
             "Value": {
                 "id": "fda1c900-4c88-4f57-9c01-e89f32e78af8",
@@ -2515,6 +2523,14 @@
             "Value": {
                 "id": "d706f30e-a27d-4bad-a849-3e6d24cb0fd7",
                 "resourcePath": "objects\\obj_AmmoPack\\obj_AmmoPack.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "febfe4f9-7cff-48e3-9607-f4ea8d1d3169",
+            "Value": {
+                "id": "0ed37b63-e453-44d0-a689-b8da406e49b3",
+                "resourcePath": "objects\\obj_GrenadeLauncher\\obj_GrenadeLauncher.yy",
                 "resourceType": "GMObject"
             }
         },
