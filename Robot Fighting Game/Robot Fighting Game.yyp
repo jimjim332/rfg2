@@ -767,6 +767,14 @@
             }
         },
         {
+            "Key": "43ae4ec5-0bbc-4bc7-a6fa-3b8fbb64cda7",
+            "Value": {
+                "id": "deaf269b-599e-49cb-87f9-f3ce8ca27e78",
+                "resourcePath": "objects\\obj_PhoneOComputer\\obj_PhoneOComputer.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "43eda735-684a-4e93-85af-541348b5c4d3",
             "Value": {
                 "id": "3613e0de-0f71-4525-a961-b0fe2bf1033d",
