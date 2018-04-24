@@ -367,6 +367,14 @@
             }
         },
         {
+            "Key": "21267f45-c3e7-42bb-8061-fbacf087b1d0",
+            "Value": {
+                "id": "d9314f3b-e7df-425d-9148-1a91f2271fd3",
+                "resourcePath": "sprites\\spr_Boss2\\spr_Boss2.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "2162460c-ece0-4ba1-b668-eabc1f71baa9",
             "Value": {
                 "id": "346bb141-23da-4ae4-af94-630e0c0408fc",
@@ -900,6 +908,14 @@
                 "id": "8d4784bb-b8b7-4d88-ac1c-ac84eeaca129",
                 "resourcePath": "scripts\\scr_SwEnemy2_Attack_State\\scr_SwEnemy2_Attack_State.yy",
                 "resourceType": "GMScript"
+            }
+        },
+        {
+            "Key": "51696b1c-2d93-4820-87ee-5effccbcf79f",
+            "Value": {
+                "id": "39488ae9-4884-468c-a0c4-f0a740ca8cce",
+                "resourcePath": "views\\51696b1c-2d93-4820-87ee-5effccbcf79f.yy",
+                "resourceType": "GMFolder"
             }
         },
         {
@@ -1444,6 +1460,14 @@
                 "id": "e32a63ba-f63d-421d-9170-e4c46e4af40b",
                 "resourcePath": "rooms\\rm_RandomEnemyLevelPicker\\rm_RandomEnemyLevelPicker.yy",
                 "resourceType": "GMRoom"
+            }
+        },
+        {
+            "Key": "84ab6dfd-e83f-40f9-9b38-475d18a57a1a",
+            "Value": {
+                "id": "e33e2eac-7f09-4722-8fb7-7296b93750e8",
+                "resourcePath": "objects\\obj_MotherBoss\\obj_MotherBoss.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -2556,6 +2580,14 @@
                 "id": "fd17ec09-2f4b-457a-b1a2-74d24d39ca2a",
                 "resourcePath": "views\\f4757c5e-4280-46ee-958d-330022890612.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "f48340da-f58f-4fdb-9cf9-3ec929ab6a6d",
+            "Value": {
+                "id": "727777a8-d361-45ce-a0e9-e5b7f275bb20",
+                "resourcePath": "rooms\\rm_Lvl_Search_More_3\\rm_Lvl_Search_More_3.yy",
+                "resourceType": "GMRoom"
             }
         },
         {

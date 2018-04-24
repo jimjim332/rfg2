@@ -66,7 +66,7 @@ if(room = rm_Lvl_Search)
 	}
 	if(lem_key)
 	{
-		room_goto(rm_Lvl_Search_More_2)	
+		room_goto(rm_Lvl_Search_More_3)	
 	}
 }
 //Level Picker 2
@@ -86,11 +86,23 @@ if(room = rm_Lvl_Search_More_2)
 {
 	if(rim_key)
 	{
-		room_goto(rm_Lvl_Search)	
+		room_goto(rm_Lvl_Search_More_3)	
 	}
 	if(lem_key)
 	{
 		room_goto(rm_Lvl_Search_More)	
+	}
+}
+//Level Picker 4
+if(room = rm_Lvl_Search_More_3)
+{
+	if(rim_key)
+	{
+		room_goto(rm_Lvl_Search)	
+	}
+	if(lem_key)
+	{
+		room_goto(rm_Lvl_Search_More_2)	
 	}
 }
 ////Level Pickers
@@ -313,6 +325,80 @@ if(room = rm_Lvl_Search_More_2)
 	    if(obj_LevelPicker.y = 576)//Back
 	    {
 	        room_goto(rm_Lv30);
+	    }    
+	}
+}
+//Level Picker 3
+if(room = rm_Lvl_Search_More_3)
+{
+	if (st_key)
+	{
+	    if(obj_LevelPicker.y = 0)//Back
+	    {
+	        room_goto(rm_Lv31);
+	    }    
+	}
+	if (st_key)
+	{
+	    if(obj_LevelPicker.y = 64)//Back
+	    {
+	        room_goto(rm_Lv32);
+	    }    
+	}
+	if (st_key)
+	{
+	    if(obj_LevelPicker.y = 128)//Back
+	    {
+	        room_goto(rm_Lv33);
+	    }    
+	}
+	if (st_key)
+	{
+	    if(obj_LevelPicker.y = 192)//Back
+	    {
+	        room_goto(rm_Lv34);
+	    }    
+	}
+	if (st_key)
+	{
+	    if(obj_LevelPicker.y = 256)//Back
+	    {
+	        room_goto(rm_Lv35);
+	    }    
+	}
+	if (st_key)
+	{
+	    if(obj_LevelPicker.y = 320)//Back
+	    {
+	        room_goto(rm_Lv36);
+	    }    
+	}
+	if (st_key)
+	{
+	    if(obj_LevelPicker.y = 384)//Back
+	    {
+	        room_goto(rm_Lv37);
+	    }    
+	}
+	if (st_key)
+	{
+	    if(obj_LevelPicker.y = 448)//Back
+	    {
+	        room_goto(rm_Lv38);
+	    }    
+	}
+	if (st_key)
+	{
+	    if(obj_LevelPicker.y = 512)//Back
+	    {
+	        room_goto(rm_Lv39);
+	    }    
+	}
+	if (st_key)
+	{
+	    if(obj_LevelPicker.y = 576)//Back
+	    {
+	        room_goto(rm_Lv40);
 	    }    
 	}
 }
