@@ -119,7 +119,7 @@ if(room = rm_Lvl_Search)
 	if (st_key)
 	{
 	    if(obj_LevelPicker.y = 64)//Back
-	    {
+	    { 
 	        room_goto(rm_Lv2);
 	    }    
 	}
