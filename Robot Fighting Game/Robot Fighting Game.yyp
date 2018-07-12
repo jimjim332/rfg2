@@ -111,14 +111,6 @@
             }
         },
         {
-            "Key": "059f1a55-b40a-47e0-b66f-73e432e61607",
-            "Value": {
-                "id": "dc4b2ddb-4e09-4c3e-8195-83ee53208b03",
-                "resourcePath": "objects\\obj_Cursor\\obj_Cursor.yy",
-                "resourceType": "GMObject"
-            }
-        },
-        {
             "Key": "05a11249-37fb-4858-b36e-1207e64cc815",
             "Value": {
                 "id": "7bda2d46-360b-4b42-923a-fe9697a01f54",
@@ -2356,14 +2348,6 @@
                 "id": "832b05ea-4a67-477b-9964-621832a2dbd0",
                 "resourcePath": "options\\android\\options_android.yy",
                 "resourceType": "GMAndroidOptions"
-            }
-        },
-        {
-            "Key": "e59e135e-f088-4806-968b-e253684e6e18",
-            "Value": {
-                "id": "693830b2-c1f8-4289-abc5-1d36f67b9797",
-                "resourcePath": "objects\\obj_GPorKB\\obj_GPorKB.yy",
-                "resourceType": "GMObject"
             }
         },
         {
